@@ -1,0 +1,24 @@
+label {
+  text-align: center;
+  color: blue;
+}
+button {
+  color: blueviolet;
+  margin: 20px;
+  width: 100px;
+  cursor: pointer;
+}
+div {
+  text-align: center;
+  background-color: rosybrown;
+  margin: 200px;
+  padding: 29px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+button:hover {
+  color: darkgoldenrod;
+}
+body {
+  font-size: larger;
+}
